@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-02-28T16:38:49+05:30*%
+%TF.ProjectId,E205 AVR Board design IPD task 1,45323035-2041-4565-9220-426f61726420,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-28 16:38:49*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X73090000Y-34990000D02*
+X124390000Y-34990000D01*
+X124390000Y-154990000D01*
+X73090000Y-154990000D01*
+X73090000Y-34990000D01*
+M02*
